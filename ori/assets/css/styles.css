@@ -1,0 +1,26 @@
+body{
+  background-image:url('https://hd.unsplash.com/photo-1423666639041-f56000c27a9a');
+  background-size:cover;
+}
+
+p.help-block{
+  color:whitesmoke;
+}
+
+h1.text-center{
+  color:white;
+}
+
+.table{
+  background-color:rgba(255,255,255,0.75);
+  color:black;
+}
+
+h1{
+  color:white;
+}
+
+div.container.row-section{
+  padding-top:75px;
+}
+
