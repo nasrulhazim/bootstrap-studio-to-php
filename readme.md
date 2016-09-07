@@ -6,9 +6,14 @@
 ```
 	app
 	|-- assets
+	|---- bootstrap
+	|---- css
+	|---- fonts
+	|---- img
+	|---- js
 	|-- modules 
-	|----- home.php
-	|----- users.php
+	|----- home
+	|-------- index.php
 	|-- views
 	|---- home
 	|------ index.php
